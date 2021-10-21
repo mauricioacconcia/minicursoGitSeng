@@ -21,14 +21,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="http://eventos.uniararas.br/home/430">
+  <a href="http://eventos.uniararas.br/home/430" target="_blank">
     <img src="Images/logo.jpg" alt="Logo" width="400" height="110">
   </a>
 </div>
 
 <p> 
     <div align="center">
-        <h1><a href="https://github.com/mauricioacconcia/minicursoGitSeng">Minicurso de GitHub</a></h1>
+        <h1><a href="https://github.com/mauricioacconcia/minicursoGitSeng" target="_blank">Minicurso de GitHub</a></h1>
     </div>
 </p>
 
@@ -51,7 +51,7 @@
 
 A instalação do github depende do seu sistema operacional. 
 
-Acessar o link de <a href="https://git-scm.com/downloads">Instalação</a>, escolher seu sistema operacional e fazer o download dos arquivos.
+Acessar o link de <a href="https://git-scm.com/downloads" target="_blank">Instalação</a>, escolher seu sistema operacional e fazer o download dos arquivos.
 
 Após fazer o download é só executar o arquivo.
 
@@ -145,7 +145,7 @@ O teste da comunicação pode ser feito com o seguinte comando:
 ```sh
   ssh -T git@github.com
   ```
-Caso solicitada a confirmação digite "Yes". Deve aparecer uma mensagem um pouco longa confirmando sua autenticação, e também indicando que o GIThub não prove acesso pelo shell. Erros de autenticação de chave podem ser resolvidos com auxílio da documentação oficial presente neste <a href="https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-denied-publickey">link</a>.
+Caso solicitada a confirmação digite "Yes". Deve aparecer uma mensagem um pouco longa confirmando sua autenticação, e também indicando que o GIThub não prove acesso pelo shell. Erros de autenticação de chave podem ser resolvidos com auxílio da documentação oficial presente neste <a href="https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-denied-publickey" target="_blank">link</a>.
 
 Ao final destes procedimentos o seu sistema local estará apto a gerenciar repositórios remotos em sua conta do GITHub sem maiores problemas.
 
@@ -157,7 +157,7 @@ O processo de trabalho no GIT entre a máquina local e a conta do GitHub pode se
 
 A - Criando uma pasta no seu computador na qual serão colocados os arquivos do projeto
 
-Ao criar uma pasta para seu projeto é necessário navegar até a pasta criada. O BASH que estamos utilizando possui os mesmos comandos do terminal do linux. Um resumo deles pode ser visto <a href="https://www.devmedia.com.br/comandos-importantes-linux/23893">aqui</a>.
+Ao criar uma pasta para seu projeto é necessário navegar até a pasta criada. O BASH que estamos utilizando possui os mesmos comandos do terminal do linux. Um resumo deles pode ser visto <a href="https://www.devmedia.com.br/comandos-importantes-linux/23893" target="_blank">aqui</a>.
 
 Após estar na pasta atual do projeto é necessário iniciar sua parte como um diretório GIT. Isso é feito com o comando 
 ```sh
