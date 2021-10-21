@@ -279,7 +279,7 @@ Importante, esteja no contexto que não foi modificado e execute o merge com o c
 </ol>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]:https://img.shields.io/github/languages/top/mauricioacconcia/minicursoVideoOpenCV?style=for-the-badge
+[contributors-shield]:https://img.shields.io/github/contributors/mauricioacconcia/newproj?style=for-the-badge
 <!-- alterar seus contributors-->
 [contributors-url]: https://github.com/mauricioacconcia/newproj/graphs/contributors
 [commits-shield]: https://img.shields.io/github/commit-activity/w/mauricioacconcia/newproj?style=for-the-badge
