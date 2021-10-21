@@ -18,20 +18,17 @@
 
 
 
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/mauricioacconcia/newproj">
+  <a href="http://eventos.uniararas.br/home/430">
     <img src="Images/logo.jpg" alt="Logo" width="400" height="110">
   </a>
 </div>
 
 <p> 
     <div align="center">
-        <h1>Minicurso de GitHub</h1>
+        <h1><a href="https://github.com/mauricioacconcia/minicursoGitSeng">Minicurso de GitHub</a></h1>
     </div>
 </p>
 
@@ -279,18 +276,18 @@ Importante, esteja no contexto que não foi modificado e execute o merge com o c
 </ol>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]:https://img.shields.io/github/contributors/mauricioacconcia/newproj?style=for-the-badge
+[contributors-shield]:https://img.shields.io/github/contributors/mauricioacconcia/minicursoGitSeng?style=for-the-badge
 <!-- alterar seus contributors-->
-[contributors-url]: https://github.com/mauricioacconcia/newproj/graphs/contributors
-[commits-shield]: https://img.shields.io/github/commit-activity/w/mauricioacconcia/newproj?style=for-the-badge
+[contributors-url]: https://github.com/mauricioacconcia/minicursoGitSeng/graphs/contributors
+[commits-shield]: https://img.shields.io/github/commit-activity/w/mauricioacconcia/minicursoGitSeng?style=for-the-badge
 <!-- alterar seus commits-->
-[commits-url]: https://github.com/mauricioacconcia/newproj/commits/master
-[stars-shield]: https://img.shields.io/github/stars/mauricioacconcia/newproj?style=for-the-badge
+[commits-url]: https://github.com/mauricioacconcia/minicursoGitSeng/commits/master
+[stars-shield]: https://img.shields.io/github/stars/mauricioacconcia/minicursoGitSeng?style=for-the-badge
 <!-- alterar seus stats -->
-[stars-url]: https://github.com/mauricioacconcia/newproj/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mauricioacconcia/newproj?style=for-the-badge
+[stars-url]: https://github.com/mauricioacconcia/minicursoGitSeng/stargazers
+[issues-shield]: https://img.shields.io/github/issues/mauricioacconcia/minicursoGitSeng?style=for-the-badge
 <!-- alterar suas issues -->
-[issues-url]: https://github.com/mauricioacconcia/newproj/issues
+[issues-url]: https://github.com/mauricioacconcia/minicursoGitSeng/issues
 <!-- alterar sua licença -->
 <!--[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt-->
